@@ -1,5 +1,5 @@
 # log_gen
-Gerador de logs automaticos de execucao.
+Gerador de logs automaticos de execucao, incluindo a chamada de cada metodo da classe decorada, tempo de execucao e tempo. 
 
 Modo de uso:
 
