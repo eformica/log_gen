@@ -36,7 +36,7 @@ def for_all_methods(decorator):
     return decorate
 
 class LogGen:
-    def __init__(self, msg=None):
+    def __init__(self, msg=""):
         #variavel onde os logs serao armazenados:
         self.__logs = ""
         
